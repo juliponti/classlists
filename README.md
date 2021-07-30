@@ -1,2 +1,5 @@
-# Clase13-classlists
-Ejercicio de classLists para [CourseIt](https://courseit.io/) 
+# Classlists
+Ejercicio para [CourseIt](https://courseit.io/)
+---
+* Con HTML y CSS replicar el diseño
+* Utilizando classlist agregarle un color diferente a la última tarjeta
